@@ -31,7 +31,7 @@ rsync ~/source/directory/* username@192.168.56.100:~/destination
 
 ```
 
-## rsync folder on a remote machine eg. to keep a backup folder
+## rsync folders on a remote machine eg. to have a backup
 
 ```
 rsync /source/directory/* /destination/folder_name
